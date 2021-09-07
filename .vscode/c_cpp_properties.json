@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+          "name": "default",
+          "includePath": ["/usr/opt/eosio.cdt/1.8.0/include/**"]
+        }
+    ],
+    "version": 4
+}
